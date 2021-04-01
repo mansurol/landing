@@ -1,0 +1,236 @@
+.AboutUs{
+    margin-top: 166px;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 13px;
+    color: #74788D;
+}
+.WhatisICOToken{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    margin-top: 7px;
+    font-style: normal;
+font-weight: 500;
+font-size: 19.52px;
+line-height: 29px;
+color: #495057;
+}
+.BestCryptocurren{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.5px;
+    line-height: 29px;
+    color: #495057;
+}
+.cryptocurrenDetails{
+    font-family: 'Poppins', sans-serif;
+    width: 434px;
+    height: 60px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #74788D;
+}
+.wouldNecessary{
+    width: 346px;
+    height: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #74788D;
+}
+.ReadMeBtn{
+    width: 95px;
+    height: 36px;
+    background: #34C38F;
+    border-radius: 4px;
+    margin-right: 11px;
+}
+.ReadMeContent{
+   
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    display: flex;
+    line-height: 38px;
+    color: #FFFFFF;
+    text-align: center;
+    margin: 0 0 0 13px;
+}
+.WorksBtn{
+width: 100px;
+height: 36px;
+background: #FFFFFF;
+border: 1px solid #556EE6;
+box-sizing: border-box;
+border-radius: 4px;
+
+}
+.WorksBtnContent{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #556EE6;
+line-height: 38px;
+margin: 0 0 0 10px;
+
+}
+.InvestamountMain{
+    margin-top: 44.4px;
+}
+.InvestAmountFull{
+    margin-right: 77.96px;
+}
+.InvestAmount{
+    width: 69px;
+    height: 29px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.5px;
+    line-height: 29px;
+    color: #495057;
+    font-family: 'Poppins', sans-serif;
+
+}
+.InvestAmountContent{
+    font-family: 'Poppins', sans-serif;
+    width: 94px;
+    height: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #74788D;
+}
+.userId{
+    width: 56px;
+    height: 29px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19.5px;
+    line-height: 29px;
+    color: #495057;
+}
+.UserName{
+    width: 35px;
+    height: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #74788D;
+}
+.LandingBoxStyle{
+    width: 261px;
+    height: 153px;
+    background: #FFFFFF;
+    border: 1px solid #EFF2F7;
+    box-sizing: border-box;
+    border-radius: 4px 4px 0px 0px;
+}
+.ShapebitcoinImgStyle{
+   margin-top: 22.17px ;
+   margin-left: 22.17px;
+   margin-bottom:18.56px ;
+}
+.LandingContentStyle{
+    font-family: 'Poppins', sans-serif;
+    width: 65px;
+    height: 24px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.25px;
+    line-height: 24px;
+    color: #495057;
+    margin-left: 22.17px;
+
+}
+.iustoblanditiisStyle{
+    width: 220px;
+    height: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    color: #74788D;
+    margin-left: 22.17px;
+
+}
+.LearnMoreBox{
+    width: 261px;
+    height: 45px;
+    background: #FFFFFF;
+    border: 1px solid #EFF2F7;
+    box-sizing: border-box;
+    border-radius: 0px 0px 4px 4px;
+
+}
+.LearnMoreBoxContent{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #556EE6;
+    margin: 0 0 0 85px;
+
+}
+.WalletBoxStyle{
+    width: 261px;
+    height: 153px;
+    background: #FFFFFF;
+    border: 1px solid #EFF2F7;
+    box-sizing: border-box;
+    border-radius: 4px 4px 0px 0px;
+}
+.WalletBox{
+    margin-left: 24px;
+    margin-top: 45px;
+}
+.WalletImgStyle{
+    margin-top: 22.17px ;
+    margin-left: 22.17px;
+    margin-bottom:18.56px ;
+}
+.WalletContentStyle{
+    width: 52px;
+    height: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.25px;
+    line-height: 24px;
+    color: #495057;
+    margin-left: 22.17px;
+
+
+}
+.iustoblanditiisStyleWallet{
+width: 159px;
+height: 40px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 19px;
+color: #74788D;
+margin-left: 22.17px;
+}
+hr{
+    border: 1px solid #E5E5E5;
+
+}

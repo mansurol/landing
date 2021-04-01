@@ -1,0 +1,38 @@
+.boxTwo{
+    width: 85px;
+    height: 85px;
+    background: #FFFFFF;
+    border: 1px solid #EFF2F7;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: 20px;
+
+}
+.styleNumber{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 33px;
+    color: #000000;
+    text-align: center;
+}
+.NameStyleDiv{
+    width: 71px;
+    height: 26px;
+    background: #EFF2F7;
+    margin: auto;
+}
+.NameStyle{
+    font-family: 'Poppins', sans-serif;
+    width: 66px;
+    height: 26px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 26px;
+    display: flex;
+    color: #495057;
+    margin-left: 17px;
+
+}

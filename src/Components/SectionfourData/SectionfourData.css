@@ -1,0 +1,13 @@
+.Ellipes{
+    width: 30px;
+    height: 30px;
+    background: rgba(85, 110, 230, 0.25098);
+    border-radius: 50%;
+   
+}
+.Ellipes img{
+    margin-left: 13px;
+}
+.SectionfourDataFullDiv{
+    margin-top: 79.6px;
+}

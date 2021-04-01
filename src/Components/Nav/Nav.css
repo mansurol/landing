@@ -1,0 +1,25 @@
+
+.coloring{
+    background-color: #556EE6;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.101961);
+    height: 816px;
+
+
+}
+.mansurol{
+    background-image: url(../img/Image.png);
+    
+}
+.NavlinkStyle{
+    color: rgba(255, 255, 255, 0.6)!important;
+ font-weight: 500;
+ font-style: normal;
+ font-size: 13px;
+ line-height: 19.5px;
+ 
+
+ 
+}
+.mansur Nav.Link{
+    color:#ffffff;
+}

@@ -1,0 +1,70 @@
+.background{
+    background-color: #556EE6;
+}
+.bgimage{
+ background-image: url("../img/Image.png");
+ opacity: 30;
+}
+.ContentColor h4{
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 42px;
+    line-height: 63px;
+    width: 438px;
+height: 189px;
+
+}
+.ContentColor p{
+    font-family: 'Poppins', sans-serif;
+    width: 434px;
+height: 44px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 22px;
+color: rgba(255, 255, 255, 0.498039);
+}
+.stylebuttonOne{
+    width: 128px;
+    height: 36px; 
+    background: #34C38F;
+    border-radius: 4px;
+    margin-right:4px;
+}
+.btnContenOne{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+
+}
+.stylebuttonTwo{
+    width: 99px;
+    height: 36px;
+    background: #FFFFFF;
+    border-radius: 4px;
+}
+.btnContenTwo{
+   
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+line-height: 19px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #212529;
+
+    
+}
+.fullContent{
+    margin-top: 277px;
+}

@@ -1,0 +1,68 @@
+.timelineHeaderStyle{
+    width: 55px;
+    height: 20px;
+    font-size: 13px;
+    color: #74788D;
+    margin: auto;
+}
+.timelineHeaderTwo{
+    width: 139px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 19.52px;
+    line-height: 29px;
+    color: #495057;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 7px;
+    margin: auto;
+
+}
+.AllDateStyle{
+    width: 108px;
+    height: 20px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    color: #556EE6;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 85px;
+
+}
+.NameOfPlatfromStyle{
+    width: 185px;
+    height: 24px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.25px;
+    line-height: 24px;
+    color: #495057;
+    margin-left: 66px;
+}
+.ArrowDownStyle{
+    width: 18px;
+    height: 18px;
+    border: 1px solid #556EE6;
+    border-radius: 50%;
+    margin-left: 110px; 
+   
+}
+.ArrowDownStyle img{
+   margin-left: 3px;
+   margin-bottom: 12px;
+}
+.DetailsOfPlatfromStyle{
+    width: 225px;
+    height: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 19px;
+    text-align: center;
+    color: #74788D; 
+    margin-left: 20px;
+}
+.DatePlatfromStyle{
+   text-align: center;
+}
