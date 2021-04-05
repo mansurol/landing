@@ -27,7 +27,10 @@ const nav = () => {
             <Nav.Link className="NavlinkStyle" to="/about">Team</Nav.Link>
             <Nav.Link className="NavlinkStyle"  to="/contact">News</Nav.Link>
             <Nav.Link className="NavlinkStyle" to="/contact">FAQs</Nav.Link>
-            <Nav.Link className="NavlinkStyle" to="/contact">sing in</Nav.Link>
+            <div className="SingInBorder">
+            <Nav.Link className="NavlinkStyle" to="/contact"><span style={{color:"#34C38F"}} >sing in</span> </Nav.Link>
+
+            </div>
             
             
           </Nav>

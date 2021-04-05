@@ -1,0 +1,134 @@
+.SectionSevenFullDiv{
+    background: #F8F8FB;
+    height: 632px;
+}
+.SectionSevenHeader{
+    width: 33px;
+    height: 20px;
+    font-size: 13px;
+    color: #74788D;
+    margin: auto;
+}
+.SectionSevenTitle{
+    width: 271px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 19.52px;
+    line-height: 29px;
+    color: #495057;
+    margin: auto;
+    font-family: 'Poppins', sans-serif;
+
+}
+.RightSideBox{
+    width: 166px;
+    height: 99px;
+    background: #556EE6;
+    border-radius: 4px;
+    position: absolute;
+}
+.RightSideBox p{
+    width: 122px;
+    height: 20px;
+    font-weight: 600;
+    font-size: 13px;
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+
+   
+}
+.RightSideBoxContent{
+  margin-top: 17px;
+  margin-left: 27px;
+position: relative;
+}
+.RightSideBox img {
+    margin-left: 40px;
+    padding: 8px;
+
+}
+.Tokensale h6{
+    width: 71px;
+height: 20px;
+font-weight: 600;
+font-size: 13px;
+color: #495057;
+font-family: 'Poppins', sans-serif;
+margin: auto;
+}
+.RightBoxSecTwo{
+margin-top: 65px;
+}
+.RightBoxSecTwoimg img{
+   margin-left:63px;
+}
+
+
+
+.LeftBoxSecSeven{
+    width: 926px;
+    height: 410px;
+    background: #FFFFFF;
+    box-shadow: 0px 12px 24px rgba(18, 38, 63, 0.0313726);
+    position: absolute;
+    border-radius: 4px;
+}
+.LeftBoxSecSevenContentStyle{
+  position: relative;
+  margin-left: 20px;
+  margin-top: 20px;
+
+}
+.LeftBoxSecSevenContentStyle p{
+    width: 141px;
+    height: 23px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    color: #495057;
+
+}
+
+.BackgrounShapeOne{
+    width: 886px;
+    height: 48px;
+    background: #F6F6F6;
+    border-radius: 4px;
+    margin-left: 20px;
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+
+}
+.ShapeOneContent{
+    position: relative;
+    margin: 14px 14px 14px 14px ;
+    
+    font-weight: 600;
+    font-size: 13px;
+    color: #000000;
+    font-family: 'Poppins', sans-serif;
+
+}
+.ShapeOneImg{
+    position: relative;
+    margin-right:23px;
+    margin-top: 10px;
+}
+.LeftBoxDetails{
+    margin-top: 80px;
+}
+.LeftBoxDetails p{
+    width: 848px;
+    height: 40px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 13px;
+    color: #74788D;
+    margin-left: 20px;
+}
+.BackgrounShapeThree{
+    margin-top: 85px;
+}
+.BackgrounShapeFour{
+    margin-top: 65px;
+
+}

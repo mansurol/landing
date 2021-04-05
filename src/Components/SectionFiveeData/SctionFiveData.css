@@ -1,0 +1,25 @@
+.SectionFiveDataFullDiv{
+    background-color: #F8F8FB;
+    height: 580px;
+}
+
+
+.SectionFiveHeaderStyle{
+    font-family: 'Poppins', sans-serif;
+    width: 38px;
+    height: 20px;
+    font-size: 13px;
+    color: #74788D;
+    margin: auto;
+    line-height: 110px;
+}
+.SectionFiveHeaderTwoStyle{
+    font-family: 'Poppins', sans-serif;
+    margin: auto;
+    width: 145px;
+    height: 29px;
+    font-weight: 500;
+    font-size: 19.52px;
+    line-height: 29px;
+    color: #495057;
+}

@@ -1,0 +1,46 @@
+.lastSectionBackground{
+    background: #2A3042;
+}
+.FooterContentStyle h5{
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 16.25px;
+line-height: 24px;
+color: #FFFFFF;
+}
+.FooterContentStyle p{
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+line-height: 19px;
+color: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.5;
+}
+.FooterContentStyle hr{
+    background: #FFFFFF;
+mix-blend-mode: normal;
+opacity: 0.1;
+}
+.finalPart img{
+    width: 91.33px;
+    height: 20px;
+}
+.finalPart p {
+font-family: 'Poppins', sans-serif;
+font-size: 13px;
+color: rgba(255, 255, 255, 0.498039);
+margin-top: 15px;
+}
+.CryptocurrencyStyle{
+width: 96px;
+height: 16px;
+font-family: 'Poppins', sans-serif;
+font-size: 11px;
+line-height: 16px;
+display: flex;
+align-items: center;
+text-align: center;
+color: #34C38F;
+
+}

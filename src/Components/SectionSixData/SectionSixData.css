@@ -1,0 +1,20 @@
+.SectionSixHeader{
+    width: 29px;
+    height: 20px;
+    margin: auto;
+    font-size: 13px;
+    color: #74788D;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+
+}
+.SectionSixTitle{
+    width: 117px;
+    height: 29px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 19.52px;
+    color: #495057;
+    margin: auto;
+    margin-top: 7px;
+}
